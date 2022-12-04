@@ -1,4 +1,4 @@
-###👋 Hello there, I am @dhavalpandey
+## Hello there, I am @dhavalpandey 👋
 
 I aspire to bring a positive change in the world around us: through technology and innovation. I am a tech enthusiast, and over the past five years, I have been on a journey to get nearer to my goal of using technology for the benefit of others. Through self and guided learning of tech, I am now proficient in JavaScript, Python, Java and several web development frameworks (including React JS and Django).
 
